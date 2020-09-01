@@ -1,0 +1,14 @@
+.list-sidebar {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+}
+
+.sidebar-options-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-inputs {
+    margin-right: 10px;
+}

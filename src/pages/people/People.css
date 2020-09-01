@@ -1,0 +1,22 @@
+.people-page-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.sidebar-hr {
+    border-right: 2px solid black;
+    height: 85vh;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.users-container {
+    padding-left: 30%;
+    text-align: center;
+    width: auto;
+}
+
+.no-users {
+    margin-top: 30%;
+    margin-bottom: 20%;
+}

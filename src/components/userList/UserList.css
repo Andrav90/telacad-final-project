@@ -1,0 +1,15 @@
+.user-list-container {
+    margin-top: 40px;
+    text-align: center;
+    width: 100%;
+}
+
+.new-user-title {
+    text-align: center;
+}
+
+.users-hrs {
+    width: 100%;               
+    background-color: black;
+    height: 1px;
+}
