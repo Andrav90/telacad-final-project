@@ -1,5 +1,3 @@
-# telacad-final-project
-
 ABOUT 
 
 Final project for the JavaScript Advanced - React course being held at Telecom Academy, Bucharest.
